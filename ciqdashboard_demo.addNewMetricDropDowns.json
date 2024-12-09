@@ -1,0 +1,344 @@
+[{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f728d"
+  },
+  "dropDownCode": "Category",
+  "dropDownValue": "Requirements",
+  "remarks": "Requirements"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f728e"
+  },
+  "dropDownCode": "Category",
+  "dropDownValue": "Design",
+  "remarks": "Design"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f728f"
+  },
+  "dropDownCode": "Category",
+  "dropDownValue": "Execution",
+  "remarks": "Execution"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f7290"
+  },
+  "dropDownCode": "Category",
+  "dropDownValue": "Story",
+  "remarks": "Story"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f7291"
+  },
+  "dropDownCode": "Category",
+  "dropDownValue": "Defects",
+  "remarks": "Defects"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f7292"
+  },
+  "dropDownCode": "Calculation_Type",
+  "dropDownValue": "Percentage",
+  "remarks": "Percentage"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f7293"
+  },
+  "dropDownCode": "Calculation_Type",
+  "dropDownValue": "N/A",
+  "remarks": "N/A"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f7294"
+  },
+  "dropDownCode": "Data_Source",
+  "dropDownValue": "Jira",
+  "remarks": "Jira"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f7295"
+  },
+  "dropDownCode": "Data_Source",
+  "dropDownValue": "alm",
+  "remarks": "alm"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f7296"
+  },
+  "dropDownCode": "Data_Source",
+  "dropDownValue": "zephyr",
+  "remarks": "zephyr"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f7297"
+  },
+  "dropDownCode": "Data_Source",
+  "dropDownValue": "rally",
+  "remarks": "rally"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f7298"
+  },
+  "dropDownCode": "Data_Source",
+  "dropDownValue": "git",
+  "remarks": "git"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f7299"
+  },
+  "dropDownCode": "Data_Source",
+  "dropDownValue": "service",
+  "remarks": "service"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f729a"
+  },
+  "dropDownCode": "Data_Source",
+  "dropDownValue": "bots",
+  "remarks": "bots"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f729b"
+  },
+  "dropDownCode": "Data_Source",
+  "dropDownValue": "xray",
+  "remarks": "xray"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f729c"
+  },
+  "dropDownCode": "Data_Source",
+  "dropDownValue": "jenkins",
+  "remarks": "jenkins"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f729d"
+  },
+  "dropDownCode": "Data_Source",
+  "dropDownValue": "zephyrscale",
+  "remarks": "zephyrscale"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f729e"
+  },
+  "dropDownCode": "TrendBy_Values",
+  "dropDownValue": "Days",
+  "remarks": "Days"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f729f"
+  },
+  "dropDownCode": "TrendBy_Values",
+  "dropDownValue": "Weeks",
+  "remarks": "Weeks"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72a0"
+  },
+  "dropDownCode": "TrendBy_Values",
+  "dropDownValue": "Months",
+  "remarks": "Months"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72a1"
+  },
+  "dropDownCode": "TrendBy_Values",
+  "dropDownValue": "Years",
+  "remarks": "Years"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72a2"
+  },
+  "dropDownCode": "Custom_Function_Name",
+  "dropDownValue": "jira_defect_ageing",
+  "remarks": "jira_defect_ageing"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72a3"
+  },
+  "dropDownCode": "Custom_Function_Name",
+  "dropDownValue": "jira_defect_ageing_by_drops",
+  "remarks": "jira_defect_ageing_by_drops"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72a4"
+  },
+  "dropDownCode": "Function_Name",
+  "dropDownValue": "count",
+  "remarks": "count"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72a5"
+  },
+  "dropDownCode": "Function_Name",
+  "dropDownValue": "sum",
+  "remarks": "sum"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72a6"
+  },
+  "dropDownCode": "Function_Name",
+  "dropDownValue": "max",
+  "remarks": "max"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72a7"
+  },
+  "dropDownCode": "Function_Name",
+  "dropDownValue": "maxAnd",
+  "remarks": "maxAnd"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72a8"
+  },
+  "dropDownCode": "Function_Name",
+  "dropDownValue": "min",
+  "remarks": "min"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72a9"
+  },
+  "dropDownCode": "Function_Name",
+  "dropDownValue": "minAnd",
+  "remarks": "minAnd"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72aa"
+  },
+  "dropDownCode": "Function_Name",
+  "dropDownValue": "sumISO",
+  "remarks": "sumISO"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72ab"
+  },
+  "dropDownCode": "Function_Name",
+  "dropDownValue": "sumISOAnd",
+  "remarks": "sumISOAnd"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72ac"
+  },
+  "dropDownCode": "Function_Name",
+  "dropDownValue": "sumISODiff",
+  "remarks": "sumISODiff"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72ad"
+  },
+  "dropDownCode": "Function_Name",
+  "dropDownValue": "sumISODiffAnd",
+  "remarks": "sumISODiffAnd"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72ae"
+  },
+  "dropDownCode": "Function_Name",
+  "dropDownValue": "countAnd",
+  "remarks": "countAnd"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72af"
+  },
+  "dropDownCode": "Function_Name",
+  "dropDownValue": "sumAnd",
+  "remarks": "sumAnd"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72b0"
+  },
+  "dropDownCode": "Function_Name",
+  "dropDownValue": "avgAnd",
+  "remarks": "avgAnd"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72b1"
+  },
+  "dropDownCode": "Function_Name",
+  "dropDownValue": "avg",
+  "remarks": "avg"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72b2"
+  },
+  "dropDownCode": "Custom_Function_Name",
+  "dropDownValue": "jira_defect_ageing_by_drops_all_status",
+  "remarks": "jira_defect_ageing_by_drops_all_status"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72b3"
+  },
+  "dropDownCode": "Custom_Function_Name",
+  "dropDownValue": "jira_defect_ageing_by_priority",
+  "remarks": "jira_defect_ageing_by_priority"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72b4"
+  },
+  "dropDownCode": "Custom_Function_Name",
+  "dropDownValue": "jira_defect_ageing_per_dev",
+  "remarks": "jira_defect_ageing_per_dev"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72b5"
+  },
+  "dropDownCode": "Custom_Function_Name",
+  "dropDownValue": "jira_open_closed_defect_count",
+  "remarks": "jira_open_closed_defect_count"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72b6"
+  },
+  "dropDownCode": "Custom_Function_Name",
+  "dropDownValue": "custom_stc_manual",
+  "remarks": "custom_stc_manual"
+},
+{
+  "_id": {
+    "$oid": "65a13b2752aeb338929f72b7"
+  },
+  "dropDownCode": "Custom_Function_Name",
+  "dropDownValue": "custom_table_stc",
+  "remarks": "custom_table_stc"
+}]
